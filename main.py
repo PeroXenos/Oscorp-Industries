@@ -4,7 +4,7 @@ import pandas as pd
 # Настройки подключения
 DB_NAME = "worldcup_db"
 DB_USER = "postgres"
-DB_PASSWORD = "postgres"   # замени на свой пароль
+DB_PASSWORD = "LizEr1337!"   # замени на свой пароль
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
