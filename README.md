@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
+
 # Oscorp-Industries
-=======
->>>>>>> 0067a13 (Diagramm)
+
 # World Cup Database Project
 
 ## 📌 Описание
