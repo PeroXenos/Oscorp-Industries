@@ -10,22 +10,22 @@ Oscorp-Industries занимается спортивной аналитикой
 
 ## Пошаговые инструкции по запуску проекта:
 
-Запуск PostgreSQL через Docker:
+### Запуск PostgreSQL через Docker:
 
 ```docker run --name worldcups-db -e POSTGRES_PASSWORD=yourpassword -d -p 5432:5432 postgres:15```
 
 
-Импорт данных WorldCups в PostgreSQL:
+### Импорт данных WorldCups в PostgreSQL:
 
 ```psql -h localhost -U postgres -d postgres -f worldcups.sql```
 
 
-Запуск Apache Superset через Docker:
+### Запуск Apache Superset через Docker:
 
 ```docker run -d -p 8088:8088 apache/superset```
 
 
-Подключение Superset к базе данных:
+### Подключение Superset к базе данных:
 
 URL подключения:
 
@@ -34,7 +34,7 @@ URL подключения:
 
 Создайте новую таблицу или подключите существующую.
 
-Создание визуализаций и дашбордов:
+### Создание визуализаций и дашбордов:
 
 Используйте интерфейс Superset для построения графиков, таблиц и дашбордов на основе WorldCups dataset.
 
