@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Oscorp-Industries
+=======
+>>>>>>> 0067a13 (Diagramm)
 # World Cup Database Project
 
 ## 📌 Описание
@@ -61,4 +67,9 @@ python main.py
 
 results/query_1.csv
 results/query_1.xlsx
+<<<<<<< HEAD
 results/query_2.csv
+=======
+results/query_2.csv
+>>>>>>> d0f5f2c (Initial commit)
+>>>>>>> 0067a13 (Diagramm)
